@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+Hi! I'm currently a Grade 12 student at Richmond Hill High School who loves learning anything related to Computer Science and Software. 
+
+I've explored
+* Mobile app development with Flutter and Jetpack Compose
+* Statistical analysis with Python, Pandas, and Seaborn
+* Ranked-choice voting algorithms with Python and Matplotlib
+* HTTP web servers from scratch with Java Sockets
+
+**I'm highly experienced in full-stack web development**. My main tech stacks are React, Svelte/SvelteKit, JS/TS, SCSS, Tailwind CSS, and Firebase.
+
 ![](https://raw.githubusercontent.com/HarryXu497/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/HarryXu497/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
