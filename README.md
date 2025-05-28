@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hi! I'm currently a Grade 12 student at Richmond Hill High School who loves learning anything related to Computer Science and Software. 
+Hi! I'm a Grade 12 student at Richmond Hill High School who loves learning anything related to Computer Science and Software. 
 
 **I'm highly experienced in full-stack web development**. My main tech stacks are React, Svelte/SvelteKit, JS/TS, SCSS, Tailwind CSS, and Firebase.
 
