@@ -4,8 +4,9 @@ Hi! I'm a Grade 12 student at Richmond Hill High School who loves learning anyth
 
 **I'm highly experienced in full-stack web development**. My main tech stacks are React, Svelte/SvelteKit, JS/TS, SCSS, Tailwind CSS, and Firebase.
 
+**I am also highly experienced in mobile development with Flutter/Dart and Jetpack Compose/Kotlin.**
+
 **I've explored**
-* Mobile app development with Flutter and Jetpack Compose
 * Statistical analysis with Python, Pandas, and Seaborn
 * Ranked-choice voting algorithms with Python and Matplotlib
 * From-scratch MVC web framework with Java Sockets and SQLite
