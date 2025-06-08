@@ -8,11 +8,7 @@ Hi! I'm a Grade 12 student at Richmond Hill High School who loves learning anyth
 
 [![My Skills](https://skillicons.dev/icons?i=java,py,cpp,mysql,js,ts,html,css,nodejs,dart,kotlin,svelte,react,nextjs,vite,angular,tailwind,sass,dart,kotlin,flutter,arduino,git,github,figma,firebase,vscode,pycharm,idea,androidstudio)](https://skillicons.dev)
 
-![](https://raw.githubusercontent.com/HarryXu497/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/HarryXu497/github-stats/master/generated/overview.svg#gh-light-mode-only)
-
-![](https://raw.githubusercontent.com/HarryXu497/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/HarryXu497/github-stats/master/generated/languages.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/HarryXu497/github-stats/master/generated/overview.svg#gh-dark-mode-only) ![](https://raw.githubusercontent.com/HarryXu497/github-stats/master/generated/overview.svg#gh-light-mode-only) ![](https://raw.githubusercontent.com/HarryXu497/github-stats/master/generated/languages.svg#gh-dark-mode-only) ![](https://raw.githubusercontent.com/HarryXu497/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 
 ---
