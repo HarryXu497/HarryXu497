@@ -6,6 +6,8 @@ Hi! I'm a Grade 12 student at Richmond Hill High School who loves learning anyth
 
 **I am also highly experienced in mobile development with Flutter/Dart and Jetpack Compose/Kotlin**.
 
+[![My Skills](https://skillicons.dev/icons?i=java,py,cpp,js,ts,mysql,html,css,tailwind,sass,dart,kotlin,svelte,react,nextjs,vite,angular,nodejs,flutter,arduino,git,github,figma,firebase,vscode,pycharm,idea)](https://skillicons.dev)
+
 ---
 
 **I've explored**
