@@ -14,7 +14,7 @@ Hi! I'm a CS student @ UofT SG who loves learning anything related to computer s
 ---
 
 **I've explored**
-* Statistical analysis with Python, Pandas, and Seaborn
+* Machine learning with Python and PyTorch
 * Ranked-choice voting algorithms with Python and Matplotlib
 * From-scratch MVC web framework with Java Sockets and SQLite
 
