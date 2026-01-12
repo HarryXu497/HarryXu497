@@ -13,10 +13,8 @@ Hi! I'm a CS student @ UofT SG who loves learning anything related to computer s
 
 ---
 
-**I've explored**
-* Machine learning with Python and PyTorch
-* Ranked-choice voting algorithms with Python and Matplotlib
-* From-scratch MVC web framework with Java Sockets and SQLite
+**I'm currently exploring...**
+Machine learning, and specifically Computer Vision, with Python and PyTorch
 
 ---
 ### Languages
