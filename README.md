@@ -13,7 +13,7 @@ Hi! I'm a CS student @ UofT SG who loves learning anything related to computer s
 
 ---
 
-**I'm currently exploring...**
+### **I'm currently exploring...**
 Machine learning, and specifically Computer Vision, with Python and PyTorch
 
 ---
