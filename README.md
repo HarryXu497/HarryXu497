@@ -18,11 +18,11 @@ Machine learning, and specifically Computer Vision, with Python and PyTorch
 
 ---
 ### Languages
-[![Languages](https://skillicons.dev/icons?i=java,py,cpp,mysql,js,ts,html,css,nodejs,dart,kotlin)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=,js,ts,html,css,nodejs,java,py,cpp,mysql,ruby,dart,kotlin)](https://skillicons.dev)
 
 ---
 ### Frameworks & Libraries
-[![Frameworks and Libraries](https://skillicons.dev/icons?i=svelte,react,nextjs,vite,angular,tailwind,sass,dart,kotlin,flutter,arduino)](https://skillicons.dev)
+[![Frameworks and Libraries](https://skillicons.dev/icons?i=react,nextjs,svelte,vite,angular,tailwind,sass,rails,dart,kotlin,flutter,arduino)](https://skillicons.dev)
 
 ---
 ### Developer Tools
