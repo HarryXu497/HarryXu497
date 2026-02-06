@@ -18,7 +18,7 @@ Machine learning, and specifically Computer Vision, with Python and PyTorch
 
 ---
 ### Languages
-[![Languages](https://skillicons.dev/icons?i=,js,ts,html,css,nodejs,java,py,cpp,mysql,ruby,dart,kotlin)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,java,py,cpp,mysql,ruby,dart,kotlin)](https://skillicons.dev)
 
 ---
 ### Frameworks & Libraries
