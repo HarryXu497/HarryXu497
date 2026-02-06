@@ -6,7 +6,7 @@ Hi! I'm a CS student @ UofT SG who loves learning anything related to computer s
 
 **I am also highly experienced in mobile development with Flutter/Dart and Jetpack Compose/Kotlin**.
 
-[![My Skills](https://skillicons.dev/icons?i=java,py,cpp,mysql,js,ts,html,css,nodejs,dart,kotlin,svelte,react,nextjs,vite,angular,tailwind,sass,dart,kotlin,flutter,arduino,git,github,figma,firebase,vscode,pycharm,idea,androidstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,py,cpp,mysql,js,ts,html,css,nodejs,dart,kotlin,svelte,react,nextjs,vite,angular,tailwind,sass,dart,ruby,rails,torch,kotlin,flutter,arduino,git,github,figma,firebase,vscode,pycharm,idea,androidstudio)](https://skillicons.dev)
 
 ![](https://raw.githubusercontent.com/HarryXu497/github-stats/master/generated/overview.svg#gh-dark-mode-only) ![](https://raw.githubusercontent.com/HarryXu497/github-stats/master/generated/overview.svg#gh-light-mode-only) ![](https://raw.githubusercontent.com/HarryXu497/github-stats/master/generated/languages.svg#gh-dark-mode-only) ![](https://raw.githubusercontent.com/HarryXu497/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
@@ -22,7 +22,7 @@ Machine learning, and specifically Computer Vision, with Python and PyTorch
 
 ---
 ### Frameworks & Libraries
-[![Frameworks and Libraries](https://skillicons.dev/icons?i=react,nextjs,svelte,vite,angular,tailwind,sass,rails,dart,kotlin,flutter,arduino)](https://skillicons.dev)
+[![Frameworks and Libraries](https://skillicons.dev/icons?i=react,nextjs,svelte,vite,angular,tailwind,sass,rails,torch,dart,kotlin,flutter,arduino)](https://skillicons.dev)
 
 ---
 ### Developer Tools
