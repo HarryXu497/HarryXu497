@@ -14,8 +14,8 @@ Hi! I'm a CS student @ UofT SG who loves learning anything related to computer s
 ---
 
 ### **I'm currently exploring...**
-Machine learning, and specifically Computer Vision, with Python and PyTorch
-
+* Machine learning, and specifically Computer Vision, with Python and PyTorch
+* Cloud computing with AWS
 ---
 ### Languages
 [![Languages](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,java,py,cpp,mysql,ruby,dart,kotlin)](https://skillicons.dev)
