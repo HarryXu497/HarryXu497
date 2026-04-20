@@ -12,8 +12,6 @@ Hi! I'm a CS student @ UofT SG who loves learning anything related to computer s
 ![](https://github.com/HarryXu497/github-stats/blob/generated/overview.svg#gh-light-mode-only)
 ![](https://github.com/HarryXu497/github-stats/blob/generated/languages.svg#gh-dark-mode-only)
 ![](https://github.com/HarryXu497/github-stats/blob/generated/languages.svg#gh-light-mode-only)
-[Created by `jstrieb/github-stats`.](https://github.com/jstrieb/github-stats)
-
 
 ---
 
