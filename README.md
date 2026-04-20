@@ -8,7 +8,11 @@ Hi! I'm a CS student @ UofT SG who loves learning anything related to computer s
 
 [![My Skills](https://skillicons.dev/icons?i=java,py,cpp,mysql,js,ts,html,css,nodejs,dart,kotlin,svelte,react,nextjs,vite,angular,tailwind,sass,dart,ruby,rails,pytorch,kotlin,flutter,arduino,git,github,figma,firebase,vscode,pycharm,idea,androidstudio)](https://skillicons.dev)
 
-![](https://raw.githubusercontent.com/HarryXu497/github-stats/master/generated/overview.svg#gh-dark-mode-only) ![](https://raw.githubusercontent.com/HarryXu497/github-stats/master/generated/overview.svg#gh-light-mode-only) ![](https://raw.githubusercontent.com/HarryXu497/github-stats/master/generated/languages.svg#gh-dark-mode-only) ![](https://raw.githubusercontent.com/HarryXu497/github-stats/master/generated/languages.svg#gh-light-mode-only)
+![](https://github.com/HarryXu497/github-stats/blob/generated/overview.svg#gh-dark-mode-only)
+![](https://github.com/HarryXu497/github-stats/blob/generated/overview.svg#gh-light-mode-only)
+![](https://github.com/HarryXu497/github-stats/blob/generated/languages.svg#gh-dark-mode-only)
+![](https://github.com/HarryXu497/github-stats/blob/generated/languages.svg#gh-light-mode-only)
+[Created by `jstrieb/github-stats`.](https://github.com/jstrieb/github-stats)
 
 
 ---
