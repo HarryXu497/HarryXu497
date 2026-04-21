@@ -4,7 +4,7 @@ Hi! I'm a CS student @ UofT SG who loves learning anything related to computer s
 
 **I'm highly experienced in full-stack web development**. My main tech stacks are React/Next.js, Svelte/SvelteKit, JS/TS, SCSS, Tailwind CSS, and Firebase.
 
-**I am also highly experienced in mobile development with Flutter/Dart and Jetpack Compose/Kotlin**.
+**I am also highly experienced in mobile development with React Native + Expo, Jetpack Compose + Kotlin, and Flutter + Dart**.
 
 [![My Skills](https://skillicons.dev/icons?i=java,py,cpp,mysql,js,ts,html,css,nodejs,dart,kotlin,svelte,react,nextjs,vite,angular,tailwind,sass,dart,ruby,rails,pytorch,kotlin,flutter,arduino,git,github,figma,firebase,vscode,pycharm,idea,androidstudio)](https://skillicons.dev)
 
