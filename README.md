@@ -6,7 +6,7 @@ Hi! I'm a CS student @ UofT SG who loves learning anything related to computer s
 
 **I am also highly experienced in mobile development with React Native + Expo, Jetpack Compose + Kotlin, and Flutter + Dart**.
 
-[![My Skills](https://skillicons.dev/icons?i=java,py,cpp,mysql,js,ts,html,css,nodejs,dart,kotlin,svelte,react,nextjs,vite,angular,tailwind,sass,dart,ruby,rails,pytorch,kotlin,flutter,arduino,git,github,figma,firebase,vscode,pycharm,idea,androidstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,py,cpp,mysql,js,ts,html,css,nodejs,dart,kotlin,go,ruby,rails,pytorch,svelte,react,nextjs,vite,angular,tailwind,sass,dart,flutter,arduino,git,github,figma,firebase,vscode,pycharm,idea,androidstudio)](https://skillicons.dev)
 
 ![](https://github.com/HarryXu497/github-stats/blob/generated/overview.svg#gh-dark-mode-only)
 ![](https://github.com/HarryXu497/github-stats/blob/generated/overview.svg#gh-light-mode-only)
@@ -20,7 +20,7 @@ Hi! I'm a CS student @ UofT SG who loves learning anything related to computer s
 * Cloud computing with AWS
 ---
 ### Languages
-[![Languages](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,java,py,cpp,mysql,ruby,dart,kotlin)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,java,py,go,ruby,cpp,mysql,dart,kotlin)](https://skillicons.dev)
 
 ---
 ### Frameworks & Libraries
